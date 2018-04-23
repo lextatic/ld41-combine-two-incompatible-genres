@@ -12,4 +12,12 @@ public class SceneController : MonoBehaviour
 	{
 		SceneManager.LoadScene("GameScene");
 	}
+
+	public void Update()
+	{
+		if(Input.GetKeyDown(KeyCode.Escape))
+		{
+			Application.Quit();
+		}
+	}
 }
