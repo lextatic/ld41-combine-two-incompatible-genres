@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deathtrap
+  - Layout
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Frames
+  - Cards
+  - Player
+  - Death
+  - Layout
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2078521775
+    locked: 0
+  - name: Platforms
+    uniqueID: 4131022947
+    locked: 0
+  - name: Character
+    uniqueID: 521746707
+    locked: 0
+  - name: Objects
+    uniqueID: 2534404087
+    locked: 0
+  - name: Interface
+    uniqueID: 2082763785
+    locked: 0
